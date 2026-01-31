@@ -13,7 +13,7 @@ import java.net.http.HttpResponse;
 @Service
 public class DataService {
 
-    private static final String API_KEY = "";
+    private static final String API_KEY = "e546b41442dffbfefa50bd201dab3204";
     private static final String CITY = "London";
 
     public String getTemperature() {
